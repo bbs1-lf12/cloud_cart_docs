@@ -1,4 +1,4 @@
-[##](<## Konzept
+## Konzept
 - [[LF12-Projekt-Konzept.excalidraw]]
 ## UX/UI
 - Site Tree-Structure
