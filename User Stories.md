@@ -1,6 +1,6 @@
 ## Anonymous User (AU)
 - an **AU** can search a product through the search-bar
-- an **AU** can login through the navbar
+- ~~an **AU** can login through the navbar~~
 - an **AU** can explore all the available products on the store
 - an **AU** will see the featured products first
 - an **AU** can add products into it's shopping cart
@@ -12,7 +12,7 @@
 ## Registered User (RU)
 - a **RU** can user credit-card to pay a product
 - a **RU** can CRUD it's address information
-- a **RU** can recover his/her password
+- ~~a **RU** can recover his/her password~~
 ## Administrator (AD)
 - an **AD** can CRUD products
 - an **AD** can CRUD users
