@@ -4,10 +4,10 @@
 - [[Sammlung der Anforderungen]]
 - [Kanban der Arbeitspacketen](https://github.com/orgs/bbs1-lf12/projects/1)
 ##  Projekt Plannung
-- Gannt Diagramm
-	- Link → [Gantt-Diagramm.xlsx](https://bbs1mainz-my.sharepoint.com/:x:/g/personal/chaamo_bsfi21_unterricht_bbs1-mainz_de/EUE4N5Xim8tPuSfjoX3TSb8BGCAOdKnxbp_kiDuTQAjqdA?e=Xh0RDi)
-- System Design
-	- [[Systemdesign.excalidraw]]
+- [Gantt-Diagramm.xlsx](https://bbs1mainz-my.sharepoint.com/:x:/g/personal/chaamo_bsfi21_unterricht_bbs1-mainz_de/EUE4N5Xim8tPuSfjoX3TSb8BGCAOdKnxbp_kiDuTQAjqdA?e=Xh0RDi)
+- [[Systemdesign.excalidraw]]
+- UML-Diagramme
+	- [Use Case Diagramm](https://bbs1mainz-my.sharepoint.com/:u:/g/personal/palaju_bsfi22_unterricht_bbs1-mainz_de/EVQSevF5SoVNpn6MCSuPyrYBIjM3_K7irL0FSB9qcb0EiQ?e=4Do2xh)
 ## UX/UI
 - [[cloud_cart_tree_structure.excalidraw]]
 - [[wireframes.excalidraw]]
